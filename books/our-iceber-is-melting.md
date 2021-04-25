@@ -1,5 +1,5 @@
 # Our Iceber Is Melting: : Changing and Succeeding Under Any Conditions
-by Author: John Cotter
+Book Author: John Cotter
 
 ## Book report
 
