@@ -1,2 +1,3 @@
-# engineering-leadership-journal
-A journal for Engineering Leaders
+# Engineering Leadership Journal
+
+A collection of notes and thoughts about Engineering Leadership.
