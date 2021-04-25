@@ -5,14 +5,14 @@ Book Author: John Cotter
 
 The books outlines 8 steps to guide through changes in an organization
 
-* Step 1: Create Sense of Urgency: help others seeing why changes and immediate actions are needed.
-* Step 2: Form a Guiding Team: for a strong team with a sense of urgency, credibility and leadership skills.
-Step 3: Define a Vision & Strategy for Change: define the future clearly and how to create these changes.
-* Step 4: Communicate to Get Buy-In: help as many people as possible to understand and accept the vision and strategy.
-* Step 5: Empower Others: remove obstacles so others can help and act realize the vision. 
-* Step 6: Achieve Short-term Wins: deliver clear achievable success as soon as possible.
-* Step 7: Build Momentum: press on with the changes until the vision is a reality.
-* Step 8: Build a New Culture: repeat the success and the new behavior until those are the norm. Make it stick.
+* Step 1 - Create Sense of Urgency: help others seeing why changes and immediate actions are needed.
+* Step 2 - Form a Guiding Team: build a strong team with a sense of urgency, credibility and leadership skills.
+* Step 3 - Define a Vision & Strategy for Change: define the future clearly and how to create these changes.
+* Step 4 - Communicate to Get Buy-In: help as many people as possible to understand and accept the vision and strategy.
+* Step 5 - Empower Others: remove obstacles so others can help and act realize the vision. 
+* Step 6 - Achieve Short-term Wins: deliver clear achievable success as soon as possible.
+* Step 7 - Build Momentum: press on with the changes until the vision is a reality.
+* Step 8 - Build a New Culture: repeat the success and the new behavior until those are the norm. Make it stick.
 
 Other random notes:
 
