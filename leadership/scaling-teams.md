@@ -4,7 +4,7 @@ Scaling teams is a challenge that comes when your Company is growing, it require
 
 ## Adaptable and Agile Teams
 
-Adapatability and agility comes together as an essential mix of requisites to scale teams with success. The following are strategies to face achieve that:
+Adapatability and agility comes together as an essential mix of requisites to scale teams with success. The following are strategies to help achieving that:
 
 * Retructure your team intentionally. Every team and organization will change wether we want it or not. We need to be aware of what are the needs of a team and support the changes to fulfill those needs. Awareness will bring to a more powerful structure of your team.
 
