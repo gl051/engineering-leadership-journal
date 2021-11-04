@@ -2,7 +2,7 @@
 
 Scaling teams is a challenge that comes when your Company is growing, it requires a lot of soft skills in order to be able to do it successfully. The following are notes about how to scale efficiently your team in a growing environment.
 
-## Adadtable and Agile Teams
+## Adaptable and Agile Teams
 
 Adapatability and agility comes together as an essential mix of requisites to scale teams with success. The following are strategies to face achieve that:
 
