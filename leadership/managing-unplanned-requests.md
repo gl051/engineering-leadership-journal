@@ -1,0 +1,14 @@
+# Managing Unplanned Requests
+
+You have done your own planning with the team and you are happily cruising through the quarter, when all of a sudden an unxpected requests come in from anothet team, your manager, your CTO or from a customer. How do you manage that ? 
+
+This is something that happens frequently to all of us, it is part of the unpredicatability of the business in a fast growing environment and the following are techinques to reduce the stress and dealing with those requests.
+
+* You have an allocated buffer in your planning to absorb inbound requests during the course of the quarter. This techinque allows you to accept without any risk request coming in, but it comes with the expense of not optimizing your planning. You will have to create tiers of features to get done versue a tier of features that you can trade-off for an unxpected request coming in. 
+
+* Normalize all work on a common priority list. Project the request you are receiving in the context of the overall priorities of the team. Your team has a defined capacity, which manifests in a limited number of things that can be done. All the work should be normalized against the capacity available and with a common priority list approach a more realistic way to make a decision. Explain the work you are doing and the value of it, evaluate if the request coming in has a highest priority in the list. Be flexible and use your emotional intelligence when interfacing with the requester, you do not want to use this techinque to always saying no to things you have not planned in advance. Agility and flexibility are value you need to foster and you need to evaluate what is the best decision for the Company.
+
+* Evaluate the request scope. Is the request an evolution or modification of the features you are working on ? Spend time to understand the value of the request itself and use this to build awarenees around blind spot you could have when planning. This is the case you are recognizing the value of you will be delivering will be way more impactful accomodating this request and you want to slight change you plan to get it done. Often this approach will require to look at the scope of what can be done now versus what be be done later in future planning. Work with all the stakeholder to define a tradeoff between hat can be done now, versus what can be done later in proper planning to accomodate the request. Incremental deliverables.
+
+* Recognize an opportunity outside of the request itself. If the work you are being asked to do is aligned or produce artifacts that allow you to make progress in other things your team thinks are important but not urgent, then use this request ad an opportunity to boost your own agenda of team priorities and what you should be focusing on. This could open up opportunities for work you would like to do, but you did not have support before. 
+
