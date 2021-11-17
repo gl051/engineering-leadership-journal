@@ -1,6 +1,6 @@
 # Management Skills 
 
-* __Operations__: Effective leaders are careful to get their “meeting operations” in excellent order. This means they master the type, frequency and content of their most important meetings. At “leading a team” stage, the most important meetings include: 1:1s, team meetings, and offsites.
+* __Operations__: Effective leaders are careful to get their “meeting operations” in excellent order. This means they master the type, frequency and content of their most important meetings. At “leading a team” stage, the most important meetings include: 1:1s, team meetings, and offsite.
 
 * __Practices__: Leaders must know how to execute on key practices such as performance reviews, compensation setting, goal management, leaves of absence, role transfers, promotions, hiring, terminations, and career development. The approach to each practice will vary from company to company.
 
