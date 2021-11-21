@@ -21,6 +21,6 @@ Is a choice to make a positive difference changing the order of things.
   * Collaboration: different people not too aligned with you, building a heterogeneous group of people who have different point of you will put you in a situation where you will find the better answers to your questions. It will be difficult, but we live in a global economy. You will also need people similar to you, people that can share the same passion and the same vision and buck you up in the tough day, but be aware about the risk that people fall in love with technology, do not lose the prospective, be focus.
   * Character: is about judgment, prospective and ethics. In this time we are surrounded by overwhelming information, and then we are pushed to do things faster and faster, but you should be able to understand “do I have to act or do I have to pose ?” “ Do I have all the right information or just an amorphous amount of data ? ” Prospective is about understanding differences, read book, listen to music, open you mind open at 360 degrees to be able to catch what it’s happening. Ethics: you can choose to be on the edge, and probably you will get better results in the short term, but keeping doing that you could walk over the line, you have to stay true on ethics.  
 
-Test 1
+Test 2
 
 
