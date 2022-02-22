@@ -6,10 +6,10 @@ When everything is on fire, it is tempting for managers to jump in and take pers
 
 * Assess the problem. Why there are so many fire drills ? How can you stop them ? It should be your priority to find something that can be done to stop them, looking at people, processes, technical situations, etc ... Is there any commitment that you should revisit to support the plan to reduce the probability of those fires to happen ? 
 
-* Ask many questions to understand what is happening ?  
+* Ask many questions to understand what is happening. 
   * Why does the team have more work than we can manage ? 
   * Has something changed creating a greater workload than before ? 
   * What are the steps we can take to make the workload more manageable ? 
   * Is there any metric we can look at to understand if there are specific areas where fires manifest the most ? 
 
-* Look at the opportunity to train new people on a specific domain. While it could be tempting to have the most senior person / or the SME taking care of the fire quickly, there are going to be times when you could benefit to train a new person by pairing him to the person looking at the issue of creating a postmortem discussion on what has been done. 
+* Look at the opportunity to train new people on a specific domain. While it could be tempting to have the most senior person / or the SME taking care of the fire quickly, there are going to be times when you could benefit to train a new person by pairing him to the person looking at the issue, or creating a postmortem discussion on what has been done. 
