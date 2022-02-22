@@ -13,3 +13,6 @@ When everything is on fire, it is tempting for managers to jump in and take pers
   * Is there any metric we can look at to understand if there are specific areas where fires manifest the most ? 
 
 * Look at the opportunity to train new people on a specific domain. While it could be tempting to have the most senior person / or the SME taking care of the fire quickly, there are going to be times when you could benefit to train a new person by pairing him to the person looking at the issue, or creating a postmortem discussion on what has been done. 
+
+
+Reference: [Seven ways managers can respond when engineering goes wrong](https://leaddev.com/team/seven-ways-managers-can-respond-when-engineering-goes-wrong)
