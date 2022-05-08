@@ -12,10 +12,10 @@ Tell things how they are and run your communications with transparency, which br
 If the decision is made do not wait too long. You need to execute fast, before rumors start build up. 
 Have a great and transparent message of the why. If the Company is failing in performance then that is the hard truth. Be real and honest about why you are doing this, you will have to let go people who you work hard to hire, smart people. 
 People need to be laid off by their manager, not the HR. The last day at the company is the day all we remember in the future. Be aware of that and how you behave. 
-Address the layoffs with the people in the Company, the message is for the people who stays, the one will have to trust you and that are thinking if the same thing can happen to them. Be visible, be present and be vigilant. Be there! 
+Address the layoffs with the people in the Company, the message is for the people who stay, the one will have to trust you and that are thinking if the same thing can happen to them. Be visible, be present and be vigilant. Be there! 
 
 ### Keep it real - do not lie to yourself 
-Look at all the indicators you have and be real when you interpret them. Usually a tendency is to react immediately on positive things and instead justifying the negative ones with some sort of excuse. This only delays the pain of dealing with it, making the problem worse most of the time. For example, if your monthly user indicator are up you will immediately think about investing more in infra or people, but if you are down you probably will end up looking at it like a temporary thing because of _xyz_, instead of putting a plan to understand and fix it. Do not lie to yourself and indeed others around you. 
+Look at all the indicators you have and be real when you interpret them. Usually a tendency is to react immediately on positive things and instead justifying the negative ones with some sort of excuse. This only delays the pain of dealing with it, making the problem worse most of the time. For example, if your monthly user indicator are up you will immediately think about investing more in infra or people, but if you are down you probably will end up looking at it like a temporary thing because of _XYZ_, instead of putting a plan to understand and fix it. Do not lie to yourself and indeed others around you. 
 
 ### At the end nobody cares 
 There could be a million of reasons from external factor about you, your team or your Company failing. Stop try to analyze those circumstances because at the end nobody cares, what they care is the outcome of it. So spend zero time on what you could have done and devote all of your time on what you might do. At the end just run your team or your Company. 
@@ -139,7 +139,7 @@ Decision-Making
 * The CEO makes the decisions, not the product and not the sales. She makes the decisions and to do so it is required the capability to do it so with enough speed and great quality. 
 * A mix of intelligence, Logic and courage is needed to make decisions.
 * The most difficult decisions are the one that will be deeply unpopular with the people around the CEO.
-* The CEO needs systematically gathers information and knowledge in the company’s day to day operation to have as much information as possible when the decision point arrives. An impact coming front the decisions you are going to make need to be assessed before making the call.
+* The CEO needs systematically gathers information and knowledge in the company’s day-to-day operation to have as much information as possible when the decision point arrives. An impact coming front the decisions you are going to make need to be assessed before making the call.
 * Great CEO build exceptional strategy to gather the required information continuously. All their daily activities are embedded with a way to gather the right information needed. 
 
 Making the company executing the CEO vision. 
@@ -154,7 +154,7 @@ Accountability vs. Creativity
 * Solving hard problems needs to take in consideration the risk of the problem we are trying to solve. You need creativity and that point and accountability is needed, but you will have to factor in the risks we are taking. Anyone should be accountable for solving easy problem. Hard problems you need to budget in the risk to judge on accountability (i.e. a missing deadline to ship) 
 * Assumption is that you have a pool of people you work with which are creative, intelligent and motivated. If you do not have that you can give up on creativity and innovation and address the root problem of your team. 
 * Address accountability across three dimensions: promises, results and efforts. 
-* Efforts: world-class company requires world-class efforts. This is simple as that and you need to align on this. 
+* Efforts: world-class company requires world-class efforts. This is simple as that, and you need to align on this. 
 * Promises: holding people for what they have committed. How strong you hold someone accountable for commitments decrease with an increase in the risk and complexity of the things they are working to achieve. In this case looks at the results of the efforts. 
 * Results: if someone missed delivering results you need to look at the seniority of the employee and the degree of difficulties. You should expect the senior people being able to forecast more accurately their results. When you are looking at the consequence of missing a result you then need to take on account the difficulty. Some problems are hard to solve. 
 * Do not take stupid risks. There are no rewards without taking risks, but there are risks with no rewards. You want to avoid the latter one. Ask yourself if we did take the right risk. What happened otherwise if we did it take that change ? 
