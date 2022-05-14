@@ -21,4 +21,4 @@
 
 Equipped with this list and the expected level for each of the skills for the different roles, it’s time to sit down and assess where you believe the manager is for each. One way to do this is to create a [radar chart](https://en.wikipedia.org/wiki/Radar_chart) where you can more easily spot where you should be spending your attention. 
 
-![Skills](../images/radar-chart-skills.png)
+![Skills](../images/management-skills.png)
