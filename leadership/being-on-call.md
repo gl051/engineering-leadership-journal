@@ -35,11 +35,11 @@ There will be cases where a support ticket will need collaboration across teams,
 
 ### Relay on your team for help
 
-Like for any fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a DevOps expert and certainly not everyone is familiar with every piece of software in our system. However, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
+Like for any fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a dev-ops expert and certainly not everyone is familiar with every piece of software in the Company. This is where team culture plays a key role, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
 
 ### Bringing new engineers into the rotation
 
-It is not just adding people to the on-call rotation, but you will need also to use a shadow list where a new engineer can pair with the primary on-call to learn and get familiar with the process and the systems. 
+It is not just adding people to the on-call rotation, but you will need first to use a shadow list where a new engineer can pair with the primary on-call to learn and get familiar with the process and the systems. It is up to the maturity of the team, and the skills of the new person added, that determinate for how long the shadowing will last. 
 
 ### On-Call off-boarding
 
