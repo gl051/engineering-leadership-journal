@@ -35,7 +35,7 @@ There will be cases where a support ticket will need collaboration across teams,
 
 ### Relay on your team for help
 
-Like for any fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a dev-ops expert and certainly not everyone is familiar with every piece of software in the Company. This is where team culture plays a key role, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
+Specially in a fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a dev-ops expert and certainly not everyone is familiar with every piece of software in the Company. This is where team culture plays a key role, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
 
 ### Bringing new engineers into the rotation
 
