@@ -10,7 +10,7 @@ Establish a weekly on-call rotation which starts at noon on Monday, this will al
 
 There should be two people on-call, a primary and a secondary. If the primary is unresponsive or unavailable when a support request comes in, then the secondary has the responsibility to make sure such request is not left unnoticed.
 
-If you are using slack (or any other form of chat system in your Company) create an alias/group for identifying the on-call group, for example `@data-platform-on-call`. The alias needs to be updated every time a new shift starts, and it is responsibility of the person finishing the previous shift to update the alias with the new engineers starting the new on-call week. They have an incentive to do that in willing to being off duty and not pinged anymore for new feature requests coming in. You can make use of reminders or building automation which notify the current people on call to update the alias.
+If you are using slack (or any other form of chat system in your Company) create an alias/group for identifying the on-call group, for example `@data-platform-on-call`. The alias needs to be updated every time a new shift starts, and it is responsibility of the person finishing the previous shift to update the alias with the new engineers starting the new on-call week. There is an incentive for them doing that, since being off duty you do not want to receive or being pinged for new requests coming in. You can make use of reminders or building automation which notifies the on-call to update the alias.
 
 ### Setting the right expectations
 
