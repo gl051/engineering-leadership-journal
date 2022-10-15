@@ -43,5 +43,5 @@ It is not just adding people to the on-call rotation, but you will need first to
 
 ### On-Call off-boarding
 
-Before on-call responsibility is passed to the next engineer in rotation, we have an on-call retro meeting to review issues that came up during the week, and to speak honestly and boldly about what we could have done better. This is the place where engineers advocate for critical infrastructure improvements or changes to existing processes.
+Before on-call responsibility is passed to the next engineer in rotation, you have an on-call retro meeting to review issues that came up during the week, and to speak honestly and boldly about what we could have done better. This is the place where engineers advocate for critical infrastructure improvements, changes to existing processes, prioritize tech-debt.
 
