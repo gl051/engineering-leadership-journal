@@ -2,7 +2,22 @@
 
 ## What is on On-Call, and why does it matter ? 
 
-As an engineer part of the on-call rotation you are responsible for ensuring the reliability and availability of services and applications that the team owns. There are clear positive consequences for the business in doing that. What is less visible, but just equally important, it is how this is very impactful for the team as well. Engineering is as much about building software as it is about maintaining it. It’s difficult to build scalable software if you are constantly worried about production outages.
+On-Call is an essential part of software ownership, as an engineer you are responsible for ensuring the reliability and availability of services and applications that your team has in production. 
+
+There are clear positive consequences for the business in doing that. What is less visible, but just equally important, it is how this is very impactful for the team as well. Engineering is as much about building software as it is about maintaining it. It’s difficult to build scalable software if you are constantly worried about production outages. 
+
+Software ownership is what allows us to make things better, you have to care and do the work. A key aspect for achieving that is to make the on-call experience pleasant with a defined framework in place which outlines goals, responsibilities and best practices.
+
+## Which alerts matter the most ?
+
+What you want is to align engineering "pain" with user "pain", by adopting thoughtful decision on when to page the person on-call. The type of alerts your system will produce should be categorized in three buckets:
+
+* User pain alerts. These alerts are SLOs violations and end-to-end health check alerts, and they need attention immediately. Usually this type of alerts are defined as _blocker_ issues.
+* Not user pain alerts. These are alerts coming from monitor the systems, which are meaningful, but not generate user pain. You want to take care of this during normal business hours. Usually this type of alerts are defined as _critical_ or _major_ issues.
+* Not meaningful alert. Those are alerts which are not actionable, because are symptomatic alerts, i.e. CPU spikes. Replace them with SLOs or remove them.
+
+You want to set a high bar for defining what are your user pain alerts, which will require defining and negotiating your SLOs with other stakeholder in the Company. When you have those in place, these are the alerts you want to wake up someone in the middle of the night and fix the issue. All others alerts should be managed during normal business hours, by being triaged, analyzed and resolved.
+
 
 ## On-Call Best Practices
 
