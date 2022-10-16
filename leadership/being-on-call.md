@@ -21,7 +21,7 @@ You want to set a high bar for defining what are your user pain alerts, which wi
 
 ## On-Call Framework
 
-Adopt a single source of page alerts, there are many incident management software available to pick which will allow it to do that (Pagerduty, OpsGenie, etc ..).
+Adopt a single source of page alerts, there are many incident management software available, pick one and stick with it (Pagerduty, OpsGenie, etc ..).
 
 Establish a weekly on-call rotation which starts at noon on Monday, this will allow proper hands-off when all engineers are available to discuss and review the previous on-call week.
 
@@ -44,23 +44,22 @@ Any person on-call need to receive clear expectations on what is requested from 
 * Preparing the agenda for the on-call retro for handing off on-call duty.
 * If you are not available for the on-call shift is your responsibilities to let the team know and to find a substitute. Reach out to the team manager if you are not able to resolve this.
 
-## Single point person
+## Single point of contact
 
 Sometimes high-pressured escalations can be chaotic. There could be many people involved or many systems at play, and it quickly becomes critical to keep track of what changes are in flight and who is doing what. You should adopt the philosophy that at all times a single point person will be in charge of the escalation response.
 
-Handling an escalation doesn’t necessarily mean you resolve the root cause, or even have the expertise to do so. You are not expected to solve every problem, but you are expected to assess the issue, determine what the impact to the business, communicate externally and mitigate the request to the best of our ability.
+Handling an escalation doesn’t necessarily mean you resolve the root cause, or even have the expertise to do so. You are not expected to solve every problem, but you are expected to assess the issue, determine what the impact to the business, communicate externally and mitigate the request to the best of our ability. This is where team culture plays a key role in supporting each other and allow growing your own strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
 
-There will be cases where a support ticket will need collaboration across teams, in such cases reach to them using the proper channels you have avaiable, for example `#team-<name>-support` channel and/or reach out to the engineering manager of the other team to get help.
-
-## Relay on your team for help
-
-Specially in a fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a dev-ops expert and certainly not everyone is familiar with every piece of software in the Company. This is where team culture plays a key role, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
+There will be cases where collaboration across teams is needed, in such cases reach to them using the proper channels you have available, for example `#team-<name>-support` channel and/or reach out to the engineering manager of the other team to get help. 
 
 ## Bringing new engineers into the rotation
 
-It is not just adding people to the on-call rotation, but you will need first to use a shadow list where a new engineer can pair with the primary on-call to learn and get familiar with the process and the systems. It is up to the maturity of the team, and the skills of the new person added, that determinate for how long the shadowing will last. 
+It is not just adding people to the on-call rotation, you need to prepare them with training. 
 
-## On-Call off-boarding
+* Document the infrastructure so that everyone has a clear view of the interoperability of all the components building the system.
+* A new engineer should shadow the primary on-call to learn and get familiar with the process and the systems. It is up to the maturity of the team, and the skills of the new person added, that determinate for how long the shadowing will last. 
 
-Before on-call responsibility is passed to the next engineer in rotation, you have an on-call retro meeting to review issues that came up during the week, and to speak honestly and boldly about what we could have done better. This is the place where engineers advocate for critical infrastructure improvements, changes to existing processes, prioritize tech-debt.
+## On-Call Retro
+
+Before on-call responsibility is passed to the next engineer in rotation, you want to have an on-call retro meeting to review issues that came up during the week, and to speak honestly and boldly about what we could have done better. This is the place where engineers advocate for critical infrastructure improvements, changes to existing processes, prioritize tech-debt, revisit SLOs and paging alerts.
 
