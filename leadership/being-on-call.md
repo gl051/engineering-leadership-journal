@@ -19,13 +19,17 @@ What you want is to align engineering "pain" with user "pain", by adopting thoug
 You want to set a high bar for defining what are your user pain alerts, which will require defining and negotiating your SLOs with other stakeholder in the Company. When you have those in place, these are the alerts you want to wake up someone in the middle of the night and fix the issue. All others alerts should be managed during normal business hours, by being triaged, analyzed and resolved.
 
 
-## On-Call Best Practices
+## On-Call Framework
+
+Adopt a single source of page alerts, there are many incident management software available to pick which will allow it to do that (Pagerduty, OpsGenie, etc ..).
 
 Establish a weekly on-call rotation which starts at noon on Monday, this will allow proper hands-off when all engineers are available to discuss and review the previous on-call week.
 
 There should be two people on-call, a primary and a secondary. If the primary is unresponsive or unavailable when a support request comes in, then the secondary has the responsibility to make sure such request is not left unnoticed.
 
-If you are using slack (or any other form of chat system in your Company) create an alias/group for identifying the on-call group, for example `@data-platform-on-call`. The alias needs to be updated every time a new shift starts, and it is responsibility of the person finishing the previous shift to update the alias with the new engineers starting the new on-call week. There is an incentive for them doing that, since being off duty you do not want to receive or being pinged for new requests coming in. You can make use of reminders or building automation which notifies the on-call to update the alias.
+Each paging alerts should have a link to documentation describing the type of check in the alert and guidelines on how to debug the issue. 
+
+You want to define a clear contract to communicate to the person on-call within your team and Company. If you are using slack (or any other form of chat system in your Company) create an alias/group for identifying the on-call group, for example `@platform-on-call`. The alias needs to be updated every time a new shift starts, and it is responsibility of the person finishing the previous shift to update the alias with the new engineers starting the new on-call week. There is an incentive for them doing that, since being off duty you do not want to receive or being pinged for new requests coming in. You can make use of reminders or building automation which notifies the on-call to update the alias.
 
 ### Setting the right expectations
 
