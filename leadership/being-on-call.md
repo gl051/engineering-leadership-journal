@@ -1,6 +1,6 @@
 # Being On-Call
 
-## What is on On-Call ?
+## What is On-Call ?
 
 On-Call is an essential part of software ownership, as an engineer you are responsible for ensuring the reliability and availability of services and applications that your team has in production. 
 
