@@ -1,6 +1,6 @@
 # Being On-Call
 
-## What is on On-Call, and why does it matter ? 
+## What is on On-Call ?
 
 On-Call is an essential part of software ownership, as an engineer you are responsible for ensuring the reliability and availability of services and applications that your team has in production. 
 
@@ -8,7 +8,7 @@ There are clear positive consequences for the business in doing that. What is le
 
 Software ownership is what allows us to make things better, you have to care and do the work. A key aspect for achieving that is to make the on-call experience pleasant with a defined framework in place which outlines goals, responsibilities and best practices.
 
-## Which alerts matter the most ?
+## Which alerts ?
 
 What you want is to align engineering "pain" with user "pain", by adopting thoughtful decision on when to page the person on-call. The type of alerts your system will produce should be categorized in three buckets:
 
@@ -31,7 +31,7 @@ Each paging alerts should have a link to documentation describing the type of ch
 
 You want to define a clear contract to communicate to the person on-call within your team and Company. If you are using slack (or any other form of chat system in your Company) create an alias/group for identifying the on-call group, for example `@platform-on-call`. The alias needs to be updated every time a new shift starts, and it is responsibility of the person finishing the previous shift to update the alias with the new engineers starting the new on-call week. There is an incentive for them doing that, since being off duty you do not want to receive or being pinged for new requests coming in. You can make use of reminders or building automation which notifies the on-call to update the alias.
 
-### Setting the right expectations
+## Setting the right expectations
 
 Any person on-call need to receive clear expectations on what is requested from him or her during that week. For example:
 
@@ -44,7 +44,7 @@ Any person on-call need to receive clear expectations on what is requested from 
 * Preparing the agenda for the on-call retro for handing off on-call duty.
 * If you are not available for the on-call shift is your responsibilities to let the team know and to find a substitute. Reach out to the team manager if you are not able to resolve this.
 
-### Single point person
+## Single point person
 
 Sometimes high-pressured escalations can be chaotic. There could be many people involved or many systems at play, and it quickly becomes critical to keep track of what changes are in flight and who is doing what. You should adopt the philosophy that at all times a single point person will be in charge of the escalation response.
 
@@ -52,15 +52,15 @@ Handling an escalation doesn’t necessarily mean you resolve the root cause, or
 
 There will be cases where a support ticket will need collaboration across teams, in such cases reach to them using the proper channels you have avaiable, for example `#team-<name>-support` channel and/or reach out to the engineering manager of the other team to get help.
 
-### Relay on your team for help
+## Relay on your team for help
 
 Specially in a fast-growing Company, it’s not reasonable to expect every engineer to know how every service works. Not everyone is a dev-ops expert and certainly not everyone is familiar with every piece of software in the Company. This is where team culture plays a key role, you need to support each other as a team and help each other growing your strengths, overcome challenges, and learn new skills. The experiences you will gain while on-call will teach you how to design and build better software, how to communicate clearly, and how to be a more empathetic teammate.
 
-### Bringing new engineers into the rotation
+## Bringing new engineers into the rotation
 
 It is not just adding people to the on-call rotation, but you will need first to use a shadow list where a new engineer can pair with the primary on-call to learn and get familiar with the process and the systems. It is up to the maturity of the team, and the skills of the new person added, that determinate for how long the shadowing will last. 
 
-### On-Call off-boarding
+## On-Call off-boarding
 
 Before on-call responsibility is passed to the next engineer in rotation, you have an on-call retro meeting to review issues that came up during the week, and to speak honestly and boldly about what we could have done better. This is the place where engineers advocate for critical infrastructure improvements, changes to existing processes, prioritize tech-debt.
 
