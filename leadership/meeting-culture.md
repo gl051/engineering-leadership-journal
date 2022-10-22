@@ -1,6 +1,6 @@
 # Meeting Culture
 
-Let's face it, meeting are expensive. The easiest way to look at this is calculating the hourly cost of a meeting by summing up the resource cost of any attendees. But there is more than that, meetings are also impacting our mental energy before and after the meeting, they do disrupt your calendar and your capabilities to focus on a specific task with no interruptions. There is an implicit cost before and after a meeting as well. 
+Let's face it, meetings are expensive. The easiest way to look at this is calculating the hourly cost of a meeting by summing up the resource cost of any attendees. But there is more than that, meetings are also impacting our mental energy before and after the meeting, they do disrupt your calendar and your capabilities to focus on a specific task with no interruptions. There is an implicit cost before and after a meeting as well. 
 
 At the same time meetings are essential to the overall success of a team and organization. The cost of not having meeting at all, ever, will be far more expensive. 
 
