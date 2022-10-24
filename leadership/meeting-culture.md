@@ -8,7 +8,10 @@ We need to find a right balance in having meetings which produce a positive net 
 
 1. Begin with the end in mind 
 
-You need to have a clear statement on what you are aiming to achieve with the meeting, and picturing the outcome you are targeting from the meeting. This will give you insights on who should be invited to the meeting, how long the meeting should last, and what agenda you should share with the attendees. 
+You need to have a clear statement on the purpose of the meeting, why you need one ? Picture in our mind the desired outcome, this will give you insights on two important aspects:
+* What topics, themes and information you need to cover and share with the attendees, and what questions do you need answered.
+* Who should be invited to the meeting (see second point below)
+* How long the meeting should last.  
 
 2. Invite who can contribute (not who needs to be informed)
 
