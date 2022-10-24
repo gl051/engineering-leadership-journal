@@ -8,12 +8,12 @@ We need to find a right balance in having meetings which produce a positive net 
 
 1. Begin with the end in mind 
 
-You need to have a clear statement on the purpose of the meeting, why you need one ? Picture in our mind the desired outcome, this will give you insights on two important aspects:
+You need to have a clear statement on the purpose of the meeting, why you need one ? Picture in your mind the desired outcome, this will give you insights on few important aspects:
 * What topics, themes and information you need to cover and share with the attendees, and what questions do you need answered.
-* Who should be invited to the meeting (see second point below)
+* Who should be invited to the meeting.
 * How long the meeting should last.  
 
-2. Invite who can contribute (not who needs to be informed)
+1. Invite who can contribute (not who needs to be informed)
 
 When you think about the attendees of your meeting, you want to invite those who can contribute to the meetings, not the one who needs to be informed. Keep the number as low as possible, if the list is getting too big then there are other ways to start mobilizing around the topic, such as asynchronous collaboration on documents.  There is no better way to say this than referring to [the two pizzas rules](https://www.inc.com/business-insider/jeff-bezos-productivity-tip-two-pizza-rule.html) by Jeff Bezo. For people that need to stay informed, leverage the written documentation of the outcome of the meeting where it is summarized what has been decided and what are the next steps. Keep information log short and focused on the outcome of the meeting. 
 
