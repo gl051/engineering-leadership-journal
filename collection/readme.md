@@ -4,4 +4,4 @@ A collection of reference material with talks and articles to inspire leadership
 * Diritti e Doveri. Sergio Marchionne. [(video)](https://youtu.be/f5167oeneg8)
 * The Management Flywheel. Camille Fournier. [(article)](https://skamille.medium.com/the-management-flywheel-c076f398969b) 
 * The Twelve Factor App. [(article)](https://12factor.net/)
-
+* The new manager death spiral. Michael Lopp [(article)(https://randsinrepose.com/archives/the-new-manager-death-spiral/)]
